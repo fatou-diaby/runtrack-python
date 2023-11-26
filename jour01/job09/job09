@@ -1,0 +1,34 @@
+nom_produit = "Ordinateur portable"
+prix_unitaire = 1000.0
+quantite_stock = 50
+pourcentage = 1.1
+prix = prix_unitaire * pourcentage
+
+print("Informations initiales du produit :")
+print("Nom du produit :", nom_produit)
+print("Prix unitaire (€) :", prix_unitaire)
+print("Quantité en stock :", quantite_stock, "\n")
+print("Le prix apres infltion est :", prix)
+
+quantite_acheter = int(input(" 23 "))
+quantite_restante = quantite_stock - quantite_acheter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
